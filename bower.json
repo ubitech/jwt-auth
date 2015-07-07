@@ -1,0 +1,10 @@
+{
+  "name": "jwt-auth",
+  "version": "0.0.1",
+  "authors": [
+    "George Tsiolis <tsiolis.g@gmail.com>"
+  ],
+  "dependencies": {
+    "angular": "~1.4.2"
+  }
+}

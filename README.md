@@ -9,9 +9,9 @@
 ## Run the Application
 
 ### Start the Express server
-	$ cd paasportsecurity
+	$ cd jwt-auth
 	$ node server.js
 
 ### Start the http server
-	$ cd paasportsecurity/public
+	$ cd jwt-auth/public
 	$ http-server

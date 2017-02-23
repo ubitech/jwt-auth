@@ -1,2 +1,15 @@
-.DS_Store
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+*.bak
 
+# Node
+node_modules
+
+# Bower
+bower_components
+
+# OS X
+.DS_Store

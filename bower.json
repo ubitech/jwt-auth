@@ -1,10 +1,8 @@
 {
   "name": "jwt-auth",
-  "version": "0.0.1",
-  "authors": [
-    "George Tsiolis <tsiolis.g@gmail.com>"
-  ],
+  "version": "0.1.0",
+  "author": "George Tsiolis <tsiolis.g@gmail.com>",
   "dependencies": {
-    "angular": "~1.4.2"
+    "angular": "~1.6.2"
   }
 }

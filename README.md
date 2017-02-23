@@ -6,6 +6,12 @@
 * Node.js
 * An http server like http-server node package
 
+### Install node and bower dependancies
+```
+$ npm install
+$ bower install
+```
+
 ## Run the Application
 
 ### Start the Express server

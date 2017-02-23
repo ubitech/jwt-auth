@@ -1,6 +1,6 @@
 {
   "name": "jwt-auth",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "George Tsiolis <tsiolis.g@gmail.com>",
   "dependencies": {
 	  "faker": "^4.1.0",
